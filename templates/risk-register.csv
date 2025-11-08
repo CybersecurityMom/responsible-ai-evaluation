@@ -1,1 +1,5 @@
+id,date,category,description,likelihood,impact,owner,status
+R-001,2025-11-08,Fairness,Location inferred without override,Medium,High,PM,Open
+R-002,2025-11-08,Privacy,Retention unclear for third parties,Low,Medium,Privacy,Open
+R-003,2025-11-08,Security,At-rest encryption not documented,Low,High,Security,In Review
 
