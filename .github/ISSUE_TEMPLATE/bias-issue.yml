@@ -1,1 +1,28 @@
-file name is called bias for my AI intelligence
+name: Bias Issue
+description: Report observed or suspected bias/fairness problems.
+title: "[Bias] <short title>"
+labels: ["bias", "fairness", "investigate"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the issue and expected outcome.
+      placeholder: "Observed different outcomes for similar users..."
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (redacted)
+      description: Links to redacted screenshots or notes.
+      placeholder: "/evidence/<system>/..."
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Who is affected? Severity and frequency?
+  - type: input
+    id: system
+    attributes:
+      label: System/feature
+      placeholder: "<name>"
+
