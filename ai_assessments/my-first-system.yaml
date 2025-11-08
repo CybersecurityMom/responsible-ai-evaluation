@@ -1,1 +1,41 @@
+meta:
+  system_name: "My First System"
+  version: "2025-11-08"
+  domain: [recommender]
+  reviewer: "Aqueelah Emanuel (AQ’s Corner)"
+
+context:
+  users: [end_user]
+  data_sources: [profile, location]
+  notes: |
+    Public demo. Evidence is redacted screenshots only.
+
+frameworks:
+  nist_privacy: true
+  cisa_secure_by_design: true
+  nist_800_53_controls: [PM, RA, AC, IA, SC, SI, AR, IP]
+  fate_principles: [fairness, accountability, transparency, explainability]
+
+findings:
+  fairness:
+    relevance_alignment: "Observed for top-5; two off-topic items flagged"
+    deduplication: "Present"
+    location_handling: "Overridable; radius respected"
+  transparency:
+    disclosures: "Shown prior to evaluation; clear"
+    explanations: "Reason strings present on results"
+    user_controls: [edit_profile, set_location, filter_remote, feedback]
+  privacy_security:
+    minimization: "Collects only profile + location; optional resume"
+    encryption: "HTTPS in transit; at-rest encryption stated"
+    retention_deletion: "Deletion path documented; third-party sharing disclosed"
+  accountability:
+    ownership: "Named PM + engineering owner"
+    risk_register: "Initialized; three open items"
+    issues_opened: ["#1-bias", "#2-privacy"]
+
+outcome:
+  summary: |
+    Strong start on explainability and minimization. Improve relevance for two personas and tighten third-party retention language.
+  next_steps: ["retest_2025-12-01", "add_persona_tests", "policy_update_retention"]
 
