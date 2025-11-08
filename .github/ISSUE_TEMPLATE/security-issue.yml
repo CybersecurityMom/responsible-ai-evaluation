@@ -1,1 +1,26 @@
-File name is issue
+name: Security Issue
+description: Report security vulnerability or control weakness.
+title: "[Security] <short title>"
+labels: ["security", "investigate"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What’s the vulnerability or gap?
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (redacted)
+      description: Links to redacted screenshots or notes.
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested Remediation
+      description: What fix or mitigation do you recommend?
+  - type: input
+    id: system
+    attributes:
+      label: System/feature
+      placeholder: "<name>"
+
