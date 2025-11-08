@@ -1,1 +1,26 @@
-File name is called Issue
+name: Privacy Issue
+description: Report privacy risks or compliance gaps.
+title: "[Privacy] <short title>"
+labels: ["privacy", "investigate"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What data is collected? Why is this a risk?
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (redacted)
+      description: Links to redacted screenshots or notes.
+  - type: textarea
+    id: controls
+    attributes:
+      label: Existing Controls
+      description: What safeguards exist? (minimization, deletion, etc.)
+  - type: input
+    id: system
+    attributes:
+      label: System/feature
+      placeholder: "<name>"
+
