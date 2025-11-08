@@ -6,7 +6,7 @@
 > 
 > This project started as my personal effort to help teams evaluate AI tools responsibly, using the same principles I teach in my workshops: **Fairness, Privacy, and Explainability**.  
 > 
-> I built this open-source toolkit so others can audit hiring systems, recommendation engines, or chatbots for bias and transparency — without needing a PhD in AI ethics.
+> I built this open-source toolkit so others can audit hiring systems, recommendation engines, or chatbots for bias and transparency, without needing a PhD in AI ethics.
 
 [![Fairness-Checked](https://img.shields.io/badge/Fairness-Checked-brightgreen)](#) [![Privacy-First](https://img.shields.io/badge/Privacy-First-blue)](#) [![Explainability-Ready](https://img.shields.io/badge/Explainability-Ready-purple)](#) [![AQ’s Corner](https://img.shields.io/badge/AQ%E2%80%99s%20Corner-Brand-3ABAEB)](#)
 
