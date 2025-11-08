@@ -1,1 +1,42 @@
+meta:
+  system_name: "<name>"
+  version: "<version or date>"
+  domain: [hiring, recommender, chatbot, analytics, safety]
+  reviewer: "Aqueelah Emanuel (AQ’s Corner)"
+
+context:
+  users: [end_user, reviewer, admin]
+  data_sources: [profile, resume, chat, telemetry, third_party]
+  notes: |
+    High-level only. Redact specifics. Reference /docs/redactions.md.
+
+frameworks:
+  nist_privacy: true
+  cisa_secure_by_design: true
+  nist_800_53_controls: [PM, RA, AC, IA, SC, SI, AR, IP]
+  fate_principles: [fairness, accountability, transparency, explainability]
+
+findings:
+  fairness:
+    relevance_alignment: "<observed/not observed>"
+    deduplication: "<present/absent>"
+    location_handling: "<transparent/overridable/silent>"
+  transparency:
+    disclosures: "<shown/not shown; clarity>"
+    explanations: "<reason strings present?>"
+    user_controls: [edit_profile, set_location, filter_remote, feedback]
+  privacy_security:
+    minimization: "<ok/gap>"
+    encryption: "<in_transit/at_rest documented?>"
+    retention_deletion: "<policy clarity>"
+    third_parties: "<sharing noted?>"
+  accountability:
+    ownership: "<named owner/team>"
+    risk_register: "<risk-register updated?>"
+    issues_opened: [ "#1-bias", "#2-privacy" ]
+
+outcome:
+  summary: |
+    <3–6 bullets. What improved? What remains?>
+  next_steps: [retest_date, new_controls, design_changes]
 
