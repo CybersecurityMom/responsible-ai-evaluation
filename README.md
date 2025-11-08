@@ -48,3 +48,51 @@
 ---
 
 ## 📁 Repo Structure
+
+.
+├── README.md
+├── templates/
+│ ├── checklist.md
+│ ├── evaluation-plan.md
+│ ├── ai_tool_assessment.yaml
+│ ├── model-card-lite.md
+│ ├── privacy-notice-snippet.md
+│ ├── risk-register.csv
+│ └── summary-report.md
+├── docs/
+│ ├── examples.md
+│ ├── redactions.md
+│ └── glossary.md
+├── evidence/
+│ └── .keep
+├── .github/
+│ └── ISSUE_TEMPLATE/
+│ ├── bias-issue.yml
+│ ├── privacy-issue.yml
+│ └── security-issue.yml
+└── ai_assessments/
+└── my-first-system.yaml (example)
+
+
+---
+
+## 🎨 Branding Notes (AQ’s Corner Style)
+Palette: AQ Blue `#3ABAEB`, AQ Pink `#E967B8`, Ink `#151515`, Cloud `#F7FAFC`  
+Tone: Plain-spoken, human-centered, encouraging — “We make the complex human.”  
+Badges: `Fairness-Checked`, `Privacy-First`, `Explainability-Ready`
+
+---
+
+## 📚 Glossary (short)
+- **Adverse impact**: Unintended harm to a specific group.
+- **Explainability**: Why a result was produced.
+- **Model card**: Short summary of model purpose/risks/limits.
+- **Redaction**: Remove or mask sensitive details before publishing.
+
+---
+
+## 📝 License
+MIT. Attribution to AQ’s Corner is appreciated when reused.
+
+From **code to care**, that’s AQ’s Corner.
+
