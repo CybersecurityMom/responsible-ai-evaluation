@@ -17,7 +17,6 @@
 ---
 
 
-
 # AQ’s Corner – Responsible AI Evaluation Toolkit
 
 > 1. **Use this as a template** → Create a new repo (suggested: `aqs-corner-responsible-ai-evaluation`)
@@ -138,7 +137,7 @@ Next version will include optional automation for validation checks.
 
 ## 📝 License
 
-MIT License — Attribution to AQ’s Corner appreciated when reused.  
+MIT License — Attribution to AQ’s Corner is appreciated when reused.  
 
 ---
 
@@ -146,4 +145,9 @@ From **code to care**, that’s AQ’s Corner.
 
 
 > 📂 The recommended folder setup looks like this, easy to follow even for first-time GitHub users.
+
+> ## 🆘 Getting Help
+If you run into setup issues, open an Issue titled **“Help: Setup Question”** and describe where you’re stuck.  
+Include what you tried, a screenshot if possible, and the file you were editing.
+
 
