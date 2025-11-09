@@ -51,13 +51,13 @@
 **System:** <name>  
 **Scope:** AI model • recommender • chatbot • screening system  
 
-**Findings:**  
-- Fairness: <summary>  
-- Transparency: <summary>  
-- Privacy/Security: <summary>  
-- Accountability: <summary>  
+**Example (Sample Tool: ResumeAI)**  
+- **Fairness:** Gender-neutral testing passed; school bias detected.  
+- **Transparency:** Reasons visible for ~70% of recommendations.  
+- **Privacy/Security:** Data retention policy unclear.  
+- **Accountability:** Team ownership documented.  
+**Outcome:** Opened 2 bias issues; awaiting vendor update.
 
-**Outcome:** <key actions or improvements>  
 
 > 🧠 Example: Try this section with a small project first — like testing bias or privacy settings on a résumé-screening AI or chatbot you use.
 
