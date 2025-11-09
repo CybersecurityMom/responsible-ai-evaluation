@@ -134,7 +134,6 @@ Include what you tried, a screenshot if possible, and the file you were editing.
 
 ## 🧩 Version
 **Version 1.0 – Released November 2025**  
-Next version will include optional automation for validation checks.
 
 ---
 
