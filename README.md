@@ -19,7 +19,7 @@
 > 4. **Run the checklist** → Open `templates/checklist.md` and check items off.
 > 5. **Publish a summary** → Fill `templates/summary-report.md` and link it in **Assessment Summary** below.
 
-> **Purpose:** A universal, copy-ready toolkit for evaluating any **AI system** — hiring platforms, chatbots, recommenders, content filters, or analytics tools; for *fairness, transparency, accountability, privacy, and safety*. Framework-aligned (NIST, CISA, FATE) and plain-language.
+> **Purpose:** A universal, copy-ready toolkit for evaluating any **AI system**, hiring platforms, chatbots, recommenders, content filters, or analytics tools; for *fairness, transparency, accountability, privacy, and safety*. Framework-aligned (NIST, CISA, FATE) and plain-language.
 
 ---
 
