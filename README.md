@@ -22,7 +22,7 @@
 
 > **Purpose:**  
 > A universal, copy-ready toolkit for evaluating any **AI system**, including hiring platforms, chatbots, recommenders, content filters, or analytics tools.  
-> Assess for *Fairness, Transparency, Accountability, Privacy, and Safety* using well-established frameworks — all in plain language.
+> Assess for *Fairness, Transparency, Accountability, Privacy, and Safety* using well-established frameworks; all in plain language.
 
 ---
 
