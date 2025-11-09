@@ -8,7 +8,15 @@
 [![Explainability](https://img.shields.io/badge/Explainability-Ready-purple)](#)
 [![AQ’s Corner](https://img.shields.io/badge/AQ’s%20Corner-Brand-3ABAEB)](#)
 
+
+## 🧭 Before You Begin
+- You’ll need a free GitHub account.
+- Click **Use this template** at the top of this repo to start your own copy.
+- No coding required — everything here is Markdown (`.md`) or YAML (`.yaml`).
+
 ---
+
+
 
 # AQ’s Corner – Responsible AI Evaluation Toolkit
 
