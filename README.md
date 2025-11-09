@@ -1,6 +1,6 @@
 ![AQ’s Corner Banner](assets/AQsCorner-GitHub-Banner.png)
 
-> 👋 Hi, I’m **Aqueelah Emanuel**, founder of **AQ’s Corner** — “Where Motherhood Meets Cybersecurity and Digital Trust.”  
+> 👋 Hi, I’m **Aqueelah Emanuel**, founder of **AQ’s Corner** — Where Motherhood Meets Cybersecurity and Digital Trust.  
 > This open-source toolkit helps anyone evaluate AI systems for **Fairness, Privacy, and Explainability**, using plain-English checklists aligned to **NIST**, **CISA**, and **FATE** principles.
 
 [![Fairness](https://img.shields.io/badge/Fairness-Checked-brightgreen)](#)
@@ -8,28 +8,26 @@
 [![Explainability](https://img.shields.io/badge/Explainability-Ready-purple)](#)
 [![AQ’s Corner](https://img.shields.io/badge/AQ’s%20Corner-Brand-3ABAEB)](#)
 
-
 ## 🧭 Before You Begin
 - You’ll need a free GitHub account.
 - Click **Use this template** at the top of this repo to start your own copy.
-- No coding required. Everything here is Markdown (`.md`) or YAML (`.yaml`).
+- No coding required — everything here is Markdown (`.md`) or YAML (`.yaml`).
 
 ---
 
-
 # AQ’s Corner – Responsible AI Evaluation Toolkit
 
-> 1. **Use this as a template** → Create a new repo (suggested: `aqs-corner-responsible-ai-evaluation`)
-> 2. **Add your first assessment** → Copy `templates/ai_tool_assessment.yaml` → `ai_assessments/<system>.yaml`
-> 3. **Attach redacted proof** → Drop images/notes in `evidence/<system>/` (no confidential data)
-> 4. **Run the checklist** → Open `templates/checklist.md` and check items off.
+> 1. **Use this as a template** → Create a new repo (suggested: `aqs-corner-responsible-ai-evaluation`)  
+> 2. **Add your first assessment** → Copy `templates/ai_tool_assessment.yaml` → `ai_assessments/<system>.yaml`  
+> 3. **Attach redacted proof** → Drop images/notes in `evidence/<system>/` (no confidential data)  
+> 4. **Run the checklist** → Open `templates/checklist.md` and check items off.  
 > 5. **Publish a summary** → Fill `templates/summary-report.md` and link it in **Assessment Summary** below.
 
 ---
 
 > **Purpose:**  
 > A universal, copy-ready toolkit for evaluating any **AI system**, including hiring platforms, chatbots, recommenders, content filters, or analytics tools.  
-> Assess for *Fairness, Transparency, Accountability, Privacy, and Safety* using well-established frameworks; all in plain language.
+> Assess for *Fairness, Transparency, Accountability, Privacy, and Safety* using well-established frameworks — all in plain language.
 
 ---
 
@@ -47,7 +45,7 @@
 
 ## 🧾 Assessment Summary (fill me in)
 
-**System:** <name>  
+**System:** `<name>`  
 **Scope:** AI model • recommender • chatbot • screening system  
 
 > 🧠 Tip: Try this with a small project first — e.g., test bias or privacy settings on a résumé-screening AI or chatbot you use.
@@ -74,36 +72,38 @@
 
 > 💡 Human Test: Can an average user understand how the system works — and correct it when it doesn’t?
 
-> 🧩 You can mix these frameworks depending on your audience — use NIST for enterprise, FATE for education, and CISA for safety-oriented projects.
+> 🧩 Mix frameworks per audience — NIST for enterprise, FATE for education, CISA for safety-focused builds.
 
 ---
 
 ## 📁 Repo Structure
 
-The recommended folder setup looks like this: easy to follow even for first-time GitHub users.
+The recommended folder setup looks like this — easy to follow even for first-time GitHub users.
 
+~~~
 ├── README.md
 ├── templates/
-│ ├── checklist.md
-│ ├── evaluation-plan.md
-│ ├── ai_tool_assessment.yaml
-│ ├── model-card-lite.md
-│ ├── privacy-notice-snippet.md
-│ ├── risk-register.csv
-│ └── summary-report.md
+│   ├── checklist.md
+│   ├── evaluation-plan.md
+│   ├── ai_tool_assessment.yaml
+│   ├── model-card-lite.md
+│   ├── privacy-notice-snippet.md
+│   ├── risk-register.csv
+│   └── summary-report.md
 ├── docs/
-│ ├── examples.md
-│ ├── redactions.md
-│ └── glossary.md
+│   ├── examples.md
+│   ├── redactions.md
+│   └── glossary.md
 ├── evidence/
-│ └── .keep
+│   └── .keep
 ├── .github/
-│ └── ISSUE_TEMPLATE/
-│ ├── bias-issue.yml
-│ ├── privacy-issue.yml
-│ └── security-issue.yml
+│   └── ISSUE_TEMPLATE/
+│       ├── bias-issue.yml
+│       ├── privacy-issue.yml
+│       └── security-issue.yml
 └── ai_assessments/
-└── my-first-system.yaml (example)
+    └── my-first-system.yaml (example)
+~~~
 
 ---
 
@@ -128,28 +128,22 @@ The recommended folder setup looks like this: easy to follow even for first-time
 
 ---
 
-> ## 🆘 Getting Help
+## 🆘 Getting Help
 If you run into setup issues, open an Issue titled **“Help: Setup Question”** and describe where you’re stuck.  
 Include what you tried, a screenshot if possible, and the file you were editing.
 
 ## 🧩 Version
-
 **Version 1.0 – Released November 2025**  
 Next version will include optional automation for validation checks.
 
 ---
 
 ## 📝 License
-
 MIT License — Attribution to AQ’s Corner is appreciated when reused.  
 
 ---
 
 From **code to care**, that’s AQ’s Corner.
-
-
-> 📂 The recommended folder setup looks like this, easy to follow even for first-time GitHub users.
-
 
 
 
