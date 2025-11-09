@@ -12,7 +12,7 @@
 ## 🧭 Before You Begin
 - You’ll need a free GitHub account.
 - Click **Use this template** at the top of this repo to start your own copy.
-- No coding required — everything here is Markdown (`.md`) or YAML (`.yaml`).
+- No coding required. Everything here is Markdown (`.md`) or YAML (`.yaml`).
 
 ---
 
