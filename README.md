@@ -137,5 +137,5 @@ MIT License — Attribution to AQ’s Corner appreciated when reused.
 From **code to care**, that’s AQ’s Corner.
 
 
-> 📂 The recommended folder setup looks like this — easy to follow even for first-time GitHub users.
+> 📂 The recommended folder setup looks like this, easy to follow even for first-time GitHub users.
 
