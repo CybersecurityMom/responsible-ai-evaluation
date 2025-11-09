@@ -50,15 +50,14 @@
 **System:** <name>  
 **Scope:** AI model • recommender • chatbot • screening system  
 
+> 🧠 Tip: Try this with a small project first — e.g., test bias or privacy settings on a résumé-screening AI or chatbot you use.
+
 **Example (Sample Tool: ResumeAI)**  
 - **Fairness:** Gender-neutral testing passed; school bias detected.  
 - **Transparency:** Reasons visible for ~70% of recommendations.  
 - **Privacy/Security:** Data retention policy unclear.  
 - **Accountability:** Team ownership documented.  
 **Outcome:** Opened 2 bias issues; awaiting vendor update.
-
-
-> 🧠 Example: Try this section with a small project first — like testing bias or privacy settings on a résumé-screening AI or chatbot you use.
 
 ---
 
@@ -80,6 +79,8 @@
 ---
 
 ## 📁 Repo Structure
+
+The recommended folder setup looks like this: easy to follow even for first-time GitHub users.
 
 ├── README.md
 ├── templates/
