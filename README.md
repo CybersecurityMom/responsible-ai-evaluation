@@ -128,6 +128,10 @@
 
 ---
 
+> ## 🆘 Getting Help
+If you run into setup issues, open an Issue titled **“Help: Setup Question”** and describe where you’re stuck.  
+Include what you tried, a screenshot if possible, and the file you were editing.
+
 ## 🧩 Version
 
 **Version 1.0 – Released November 2025**  
@@ -146,8 +150,6 @@ From **code to care**, that’s AQ’s Corner.
 
 > 📂 The recommended folder setup looks like this, easy to follow even for first-time GitHub users.
 
-> ## 🆘 Getting Help
-If you run into setup issues, open an Issue titled **“Help: Setup Question”** and describe where you’re stuck.  
-Include what you tried, a screenshot if possible, and the file you were editing.
+
 
 
