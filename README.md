@@ -68,11 +68,11 @@
   - **AC/IA** – Access Control / Identity & Authentication  
   - **SC/SI** – System & Integrity controls  
   - **AR/IP** – Accountability & Individual Participation  
-- **FATE Principles** – Fairness, Accountability, Transparency, Explainability — practical ways to audit how AI makes decisions.
+- **FATE Principles** – Fairness, Accountability, Transparency, Explainability; practical ways to audit how AI makes decisions.
 
 > 💡 Human Test: Can an average user understand how the system works — and correct it when it doesn’t?
 
-> 🧩 Mix frameworks per audience — NIST for enterprise, FATE for education, CISA for safety-focused builds.
+> 🧩 Mix frameworks per audience; NIST for enterprise, FATE for education, CISA for safety-focused builds.
 
 ---
 
