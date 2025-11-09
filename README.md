@@ -80,7 +80,7 @@
 
 ## 📁 Repo Structure
 
-The recommended folder setup looks like this: easy to follow even for first-time GitHub users.
+The recommended folder setup looks like this — easy to follow even for first-time GitHub users.
 
 ├── README.md
 ├── templates/
@@ -104,7 +104,6 @@ The recommended folder setup looks like this: easy to follow even for first-time
 │ └── security-issue.yml
 └── ai_assessments/
 └── my-first-system.yaml (example)
-
 
 ---
 
