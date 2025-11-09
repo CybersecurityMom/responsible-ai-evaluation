@@ -1,6 +1,6 @@
 ![AQ’s Corner Banner](assets/AQsCorner-GitHub-Banner.png)
 
-> 👋 Hi, I’m **Aqueelah Emanuel**, founder of **AQ’s Corner** — where motherhood meets cybersecurity and digital trust.  
+> 👋 Hi, I’m **Aqueelah Emanuel**, founder of **AQ’s Corner** - "Where motherhood meets cybersecurity", and digital trust.  
 > This open-source toolkit helps anyone evaluate AI systems for **Fairness, Privacy, and Explainability**, using plain-English checklists aligned to **NIST, CISA, and FATE**.
 
 [![Fairness](https://img.shields.io/badge/Fairness-Checked-brightgreen)](#)
