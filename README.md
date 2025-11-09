@@ -1,16 +1,17 @@
-# AQ’s Corner – Responsible AI Evaluation Toolkit
-
 ![AQ’s Corner Banner](assets/AQsCorner-GitHub-Banner.png)
 
-> 👋 Hi, I’m **Aqueelah**, founder of **AQ’s Corner** — where motherhood meets cybersecurity and digital trust.  
-> 
-> This project started as my personal effort to help teams evaluate AI tools responsibly, using the same principles I teach in my workshops: **Fairness, Privacy, and Explainability**.  
-> 
-> I built this open-source toolkit so others can audit hiring systems, recommendation engines, or chatbots for bias and transparency, without needing a PhD in AI ethics.
+> 👋 Hi, I’m **Aqueelah Emanuel**, founder of **AQ’s Corner** — where motherhood meets cybersecurity and digital trust.  
+> This open-source toolkit helps anyone evaluate AI systems for **Fairness, Privacy, and Explainability**, using plain-English checklists aligned to **NIST, CISA, and FATE**.
 
-[![Fairness-Checked](https://img.shields.io/badge/Fairness-Checked-brightgreen)](#) [![Privacy-First](https://img.shields.io/badge/Privacy-First-blue)](#) [![Explainability-Ready](https://img.shields.io/badge/Explainability-Ready-purple)](#) [![AQ’s Corner](https://img.shields.io/badge/AQ%E2%80%99s%20Corner-Brand-3ABAEB)](#)
+[![Fairness](https://img.shields.io/badge/Fairness-Checked-brightgreen)](#)
+[![Privacy](https://img.shields.io/badge/Privacy-First-blue)](#)
+[![Explainability](https://img.shields.io/badge/Explainability-Ready-purple)](#)
+[![AQ’s Corner](https://img.shields.io/badge/AQ’s%20Corner-Brand-3ABAEB)](#)
 
-> **Getting Started in 60 Seconds**
+---
+
+# AQ’s Corner – Responsible AI Evaluation Toolkit
+
 >
 > 1. **Use this as a template** → Create a new repo (suggested: `aqs-corner-responsible-ai-evaluation`)
 > 2. **Add your first assessment** → Copy `templates/ai_tool_assessment.yaml` → `ai_assessments/<system>.yaml`
