@@ -78,7 +78,7 @@
 
 ## 📁 Repo Structure
 
-The recommended folder setup looks like this — easy to follow even for first-time GitHub users.
+The recommended folder setup looks like this, easy to follow even for first-time GitHub users.
 
 ~~~
 ├── README.md
